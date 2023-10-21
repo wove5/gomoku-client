@@ -14,11 +14,8 @@
      - it would not be difficult to enable creating rectangular sized games - watch this space
 
    - click START NEW GAME button
-   - login to game (if not already logged in). Login options are:
-     1. username: admin, password: admin
-     2. username: le-kang, password: awp
-     3. username: david, password: 1234
-   - after successful login, you will be taken to the home page
+   - login to game (if not already logged in), or sign up if necessary
+   - after successful login, you will be taken to the home page, or a new game of the size that you selected
    - click positions on board
    - black will be first color applied
    - white will be the following color applied
