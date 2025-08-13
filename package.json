@@ -55,6 +55,7 @@
     "@svgr/webpack": "^8.0.0",
     "webpack-dev-server": "^5.2.2",
     "workbox-build": "^7.3.0",
-    "resolve-url-loader": "^5.0.0"
+    "resolve-url-loader": "^5.0.0",
+    "tmp": "^0.2.5"
   }
 }
