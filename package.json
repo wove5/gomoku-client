@@ -47,9 +47,6 @@
     ]
   },
   "proxy": "http://localhost:8080",
-  "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
-  },
   "packageManager": "yarn@1.22.22",
   "resolutions": {
     "@svgr/webpack": "^8.0.0",
@@ -60,6 +57,7 @@
     "@babel/core": "^7.0.0",
     "@babel/plugin-syntax-flow": "^7.14.5",
     "@testing-library/dom": "^7.21.4",
-    "@babel/plugin-transform-react-jsx": "^7.14.9"
+    "@babel/plugin-transform-react-jsx": "^7.14.9",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
 }
